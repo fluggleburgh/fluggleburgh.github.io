@@ -1,0 +1,9 @@
+{
+  "private": true,
+  "scripts": {
+    "build": "bash build.sh"
+  },
+  "dependencies": {
+    "marked": "^13.0.2"
+  }
+}
