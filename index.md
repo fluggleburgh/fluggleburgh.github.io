@@ -1,30 +1,20 @@
-# FluggleBurgh 2025
+# FluggleBurgh 2026
 
 **juggling * acro * flow arts * circus**
 
-**Nov 7-9, 2025 - Pittsburgh, PA**
+**Nov 6-8, 2026 - Pittsburgh, PA**
 
-[Facebook Event](https://www.facebook.com/events/788635177290502)
+<!-- [Facebook Event](https://www.facebook.com/events/788635177290502) -->
 
-Tickets: [Card payment (tbd)], [[Cash payment](https://forms.gle/6pGEZtToC7VnEv967)]
+[JugglingEdge event](https://jugglingedge.com/event.php?EventID=6437)
+
+<!-- Tickets: [Card payment (tbd)], [[Cash payment](https://forms.gle/6pGEZtToC7VnEv967)] -->
 
 <!-- ![Flyer](flyer2024.jpg) -->
 
+![Workshops](ws25.jpg) ![Gala show](show25.jpg) ![Games](games25.jpg)
+
 ---
-
-## About
-
-**FluggleBurgh** is a 3-day festival for all circus and skill arts hosted by  Pittsburghs juggling, acro, clowning, and flow arts community (FluggleBurgh = *fl*ow + j*uggle* + pitts*burgh*). It will be again at the The Kingsley Association in the east-end of Pittsbugh. FluggleBurgh will provide a communal practice space in a large gym with tall ceilings, classrooms with scheduled workshops all weekend, outdoor practice and fire space (weather permitting), object manipulation games/competition, and shows. All activities will be in the same space. All walks of object manipulation, circus arts, and movement arts are welcome. 
-
-In spirit, it is a successor of the [Not Quite Pittsburgh Juggling Festival](https://www.youtube.com/watch?v=_janE-erfKc) (2008-2015), but it's now within the Pittsburgh city limits.
-
-Our ongoing goal of this festival is to bring the various communities around circus arts and other skills from Pittsburgh and beyond together, share workshops, and showcase the various skills in a show. We expect plenty of juggling, acrobatics, and flow workshops, as well as some clowning, balloons, and maybe even magic and unicycling.
-
-![img](2018-gym.jpg)
-
- ![img](2018-acr.jpg)
-
- ![img](2018-staff.jpg)
 
 
 
@@ -32,24 +22,24 @@ Our ongoing goal of this festival is to bring the various communities around cir
 
 **Gym times (open practice, workshops)** 
 
-* Friday Nov 7, 2025, 5pm-11pm (it's not too late to still wear Halloween costumes)
-* Saturday Nov 8, 2025, 10am-11pm (gym closes at 6pm to prepare for the show, reopens after the show)
-* Sunday Nov 9, 2025, 9am-3pm
+* Friday Nov 6, 2026, 5pm-11pm (it's not too late to still wear Halloween costumes)
+* Saturday Nov 7, 2026, 10am-11pm (gym closes at 6pm to prepare for the show, reopens after the show)
+* Sunday Nov 8, 2026, 10am-3pm
 
 To cover the costs of the festival, we ask for $10 per day for access to the gym and the workshops on Friday and Saturday (Sunday free). Youth under 18 (must be accompanied by an adult), locals within walking distance from the Kingsley Association, and all Kingsley Association Members can attend for free. 
 <!-- Tickets can be bought on site or [online](https://operations.daxko.com/online/5337/ProgramsV2/Events.mvc/offering?guid=664f1c27-7f43-11ef-99cf-005056924804). -->
 
-**Fire Jam (Friday Nov 7, after dark, free)** 
+**Fire Jam (Friday after dark, free)** 
 
 The fire jam is informal and will be outside in the parking lot, weather permitting, roughly 7 to 9pm. It will be canceled or rescheduled in case of heavy rain. 
 
 Last year we also had a glow toy jam afterward inside.
 
-**FluggleBurgh Gala Show (Saturday Nov 8, 7:30-9pm, $10, Kingsley Association)** 
+**FluggleBurgh Gala Show (Saturday 7:30-9pm, $10, Kingsley Association)** 
 
-FluggleBurgh Gala Show: The Gala show on Saturday will be at the Kingsley Association as well. It will feature various circus acts, including juggling, flow, and acro. As usual [O’Ryan The O'Mazing](https://www.oryantheomazing.com) will guide through the show. 
+The Gala show on Saturday will be at the Kingsley Association as well. It will feature various circus acts, including juggling, flow, and acro. As usual [O’Ryan The O'Mazing](https://www.oryantheomazing.com) will host the show. 
 
-Show tickets can be bought for $10 in the gym during the festival, at the door, or online (tdb).
+Show tickets can be bought for $10 in the gym during the festival, at the door, or online (tbd).
 <!-- [online](https://operations.daxko.com/online/5337/ProgramsV2/Events.mvc/offering?guid=664f1c27-7f43-11ef-99cf-005056924804).  -->
 Doors open about 20-30 min before the show. 
 
@@ -57,24 +47,43 @@ Doors open about 20-30 min before the show.
 
 We will likely have a small renegade show in a secret location late on Saturday. We will share the location in the gym on Saturday after the show.
 
-**Games (Sunday 11am)**
+**Games (Sunday 11:30am)**
 
 Watch or compete in various, mostly silly, juggling and circus games. Approachable for all.
 
 **Workshop Schedule** 
 
-We have various workshops throughout the weekend. Look for last minute changes, but this is the plan right now:
+We have various workshops throughout the weekend. Schedule to be announced later.
 
-<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vSuThN_6EeRbhAmElJ5sEvNvuYTJeuCR-BH67Nu0aG3FZYwkSv2PfwWNvx2TlucFrK9Sj8x1JeNOHUj/pubhtml?gid=0&amp;single=true&amp;widget=true&amp;headers=false"   width="800" height="600" frameborder="0" style="border:0" ></iframe>
+Interested in teaching a workshop? [Let us know](https://forms.gle/7JvfHfsiUtCpY3da7).
+
+
+<!-- Look for last minute changes, but this is the plan right now: -->
+
+<!-- <iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vSuThN_6EeRbhAmElJ5sEvNvuYTJeuCR-BH67Nu0aG3FZYwkSv2PfwWNvx2TlucFrK9Sj8x1JeNOHUj/pubhtml?gid=0&amp;single=true&amp;widget=true&amp;headers=false"   width="800" height="600" frameborder="0" style="border:0" ></iframe> -->
 
 
 For **absolute beginners**, we teach anybody how to start juggling at the front desk throughout the entire festival (free, no gym fee required, no prior experience required, open to the general public).
 For those who want to go beyond the basics, we have more *beginner-friendly workshops* throughout the weekend.
 
-Interested in teaching a workshop? [Let us know](https://forms.gle/GN35Lmzq8WMMTxYy7).
 
 
 <!-- ![Gala show flyer](gala24.jpg) -->
+
+
+
+
+## About the Festival
+
+See this nice writeup from last year's festival at juggle.org: *[Fluggleburgh Pittsburgh Circus Arts Festival 2025 Recap](https://www.juggle.org/fluggleburgh-pittsburgh-circus-arts-festival-2025-recap/)*
+
+**FluggleBurgh** is a 3-day festival for all circus and skill arts hosted by Pittsburgh's juggling, acro, clowning, and flow arts community (FluggleBurgh = *fl*ow + j*uggle* + pitts*burgh*). It will be again at the Kingsley Association in the East End of Pittsburgh. FluggleBurgh will provide a communal practice space in a large gym with tall ceilings, classrooms with scheduled workshops all weekend, outdoor practice and fire space (weather permitting), object manipulation games/competition, and shows. All activities will be in the same space. All walks of object manipulation, circus arts, and movement arts are welcome. 
+
+In spirit, it is a successor of the [Not Quite Pittsburgh Juggling Festival](https://www.youtube.com/watch?v=_janE-erfKc) (2008-2015), but it's now within the Pittsburgh city limits.
+
+Our ongoing goal of this festival is to bring the various communities around circus arts and other skills from Pittsburgh and beyond together, share workshops, and showcase the various skills in a show. We expect plenty of juggling, acrobatics, and flow workshops, as well as some clowning, balloons, and maybe even magic and unicycling.
+
+
 
 
 
@@ -88,8 +97,8 @@ Parking is available in front of and behind the building as well as on nearby st
 
 ## T-Shirts
 
-We will sell t-shirts on site. You can also custom order one with our designs [online](https://jugglingjill.myspreadshop.com/).
+We will sell t-shirts on site. You can also custom order one with our previous designs [online](https://jugglingjill.myspreadshop.com/).
 
 ## Contact
 
-Contact us on [Facebook](https://www.facebook.com/events/788635177290502/) or send an [email](mailto:kaestner@cs.cmu.edu)
+Contact us on Facebook or send an [email](mailto:kaestner@cs.cmu.edu).

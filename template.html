@@ -1,53 +1,180 @@
 <!DOCTYPE html>
-<html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="author" content="CMU Juggling Club">
+  <meta name="keywords" content="juggling festival,flow arts,circus,acro,juggling,pittsburgh,fluggleburgh,workshops,show">
+  <meta name="description" content="FluggleBurgh: Pittsburgh's juggling, flow arts, and circus festival">
 
-    <meta charset="utf-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta name="description" content="">
-    <meta name="author" content="CMU Juggling Club">
-    <meta name="keywords" content="juggling festival,flow,flow arts,juggling,show,cmu,carnegie mellon,juggling,club,pittsburgh,passing,masters of flying object,carnegie mellon university,juggle,club passing" />
-    <meta name="description" content="FluggleBurgh: Pittsburgh's Flow and Juggling Festival">
+  <title>FluggleBurgh</title>
 
-<title>FluggleBurgh</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,500..900&display=swap" rel="stylesheet">
 
-    <!-- CSS -->
-    <link href="../css/bootstrap.min.css" rel="stylesheet" type="text/css">
-      <link href="../css/nivo-lightbox.css" rel="stylesheet" />
-  <link href="../css/nivo-lightbox-theme/default/default.css" rel="stylesheet" type="text/css" />
-  <link href="../css/owl.carousel.css" rel="stylesheet" media="screen" />
-    <link href="../css/owl.theme.css" rel="stylesheet" media="screen" /> 
-  <link href="../css/animate.css" rel="stylesheet" />
-    <link href="../css/style.css" rel="stylesheet">
-  <link href="../color/default.css" rel="stylesheet">
   <style>
-    .col-md-9 img {
+    /* Note: the page body is generated from index.md by build.sh. Some rules
+       below target the markdown output positionally (h1 + p = tagline,
+       h1 + p + p = dates); a paragraph holding several images becomes a
+       photo row. */
+
+    :root {
+      --ink: #2a2233;
+      --faded: #6b5f77;
+      --plum: #46295e;
+      --flame: #d64b1f;
+      --gold: #e89b0c;
+      --teal: #0e7568;
+      --paper: #ffffff;
+    }
+
+    * { box-sizing: border-box; }
+
+    body {
+      margin: 0;
+      background: var(--paper);
+      color: var(--ink);
+      font-family: system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+      font-size: 1.0625rem;
+      line-height: 1.65;
+    }
+
+    main {
+      max-width: 44rem;
+      margin: 0 auto;
+      padding: 1.5rem 1.25rem 4.5rem;
+    }
+
+    h1, h2 {
+      font-family: "Fraunces", Georgia, "Times New Roman", serif;
+      color: var(--plum);
+      line-height: 1.15;
+      text-wrap: balance;
+    }
+
+    h1 {
+      font-size: clamp(2.7rem, 9vw, 4.3rem);
+      font-weight: 900;
+      text-align: center;
+      margin: 2.2rem 0 0.5rem;
+      letter-spacing: -0.015em;
+    }
+
+    /* opening cluster: tagline, dates, event link */
+    h1 + p,
+    h1 + p + p,
+    h1 + p + p + p {
+      text-align: center;
+      margin: 0.4rem 0;
+    }
+
+    h1 + p {                    /* tagline */
+      color: var(--faded);
+      font-size: 1.1rem;
+      letter-spacing: 0.04em;
+    }
+    h1 + p strong { font-weight: 500; }
+
+    h1 + p + p {                /* dates */
+      font-size: 1.45rem;
+      margin-top: 0.9rem;
+    }
+    h1 + p + p strong {
+      font-family: "Fraunces", Georgia, serif;
+      font-weight: 650;
+      color: var(--flame);
+    }
+
+    h2 {
+      font-size: 1.75rem;
+      font-weight: 650;
+      margin: 3.2rem 0 0.8rem;
+    }
+
+    a {
+      color: var(--teal);
+      text-decoration-thickness: 1px;
+      text-underline-offset: 3px;
+    }
+    a:hover { color: var(--flame); }
+    a:focus-visible {
+      outline: 2px solid var(--flame);
+      outline-offset: 2px;
+      border-radius: 2px;
+    }
+
+    /* three juggling balls instead of a rule */
+    hr {
+      border: 0;
+      width: 120px;
+      height: 12px;
+      margin: 2.8rem auto;
+      background-image:
+        radial-gradient(circle 6px at 20px 6px, var(--flame) 97%, transparent),
+        radial-gradient(circle 6px at 60px 6px, var(--gold) 97%, transparent),
+        radial-gradient(circle 6px at 100px 6px, var(--teal) 97%, transparent);
+    }
+
+    img {
       max-width: 100%;
       height: auto;
+      border-radius: 6px;
     }
-    h2{margin-top:60px}
+
+    /* a paragraph of several images becomes a photo row */
+    p:has(> img + img) {
+      display: grid;
+      grid-template-columns: repeat(3, 1fr);
+      gap: 0.7rem;
+      margin: 1.8rem 0 0.5rem;
+    }
+
+    iframe {
+      width: 100%;
+      max-width: 860px;
+      height: min(70vh, 600px);
+      border: 0;
+      border-radius: 6px;
+    }
+
+    ul { padding-left: 1.4rem; }
+    li { margin: 0.3rem 0; }
+
+    /* let the photo band run wider than the text column */
+    @media (min-width: 561px) {
+      p:has(> img + img) {
+        width: min(56rem, 94vw);
+        margin-left: 50%;
+        transform: translateX(-50%);
+        gap: 0.9rem;
+      }
+    }
+
+    @media (max-width: 560px) {
+      /* photo row becomes a swipeable strip so it stays a band, not a tower */
+      p:has(> img + img) {
+        display: flex;
+        overflow-x: auto;
+        scroll-snap-type: x mandatory;
+        -webkit-overflow-scrolling: touch;
+        scrollbar-width: none;
+      }
+      p:has(> img + img)::-webkit-scrollbar { display: none; }
+      p:has(> img + img) > img {
+        flex: 0 0 82%;
+        scroll-snap-align: center;
+      }
+      h1 + p + p { font-size: 1.25rem; }
+    }
   </style>
+</head>
 
-  <body id="page-top" data-spy="scroll" data-target=".navbar-custom">
+<body>
+  <main>
 
+    $BODY$
 
-
-<!-- Section: about -->
-    <section id="about" class="home-section">
-      <div class="container">
-      <div class="row">
-        <div class="col-md-9">
-
-          $BODY$
-
-        </div>
-          <div class="col-md-3">
-<img src="sil.png" />
-        </div>
-          </div>
-    </div>
-  </section>
-
-
-  </body>
-
+  </main>
+</body>
 </html>
