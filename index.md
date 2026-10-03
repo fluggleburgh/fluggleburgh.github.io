@@ -10,9 +10,9 @@
 
 <!-- Tickets: [Card payment (tbd)], [[Cash payment](https://forms.gle/6pGEZtToC7VnEv967)] -->
 
-<!-- ![Flyer](flyer2024.jpg) -->
 
-![Workshops](ws25.jpg) ![Gala show](show25.jpg) ![Games](games25.jpg)
+[![FluggleBurgh 2026 festival flyer](flyer2026-festival-small.jpg)](flyer2026-festival.png) [![FluggleBurgh 2026 Gala Show flyer](flyer2026-show-small.jpg)](flyer2026-show.png)
+
 
 ---
 
@@ -76,6 +76,8 @@ For those who want to go beyond the basics, we have more *beginner-friendly work
 ## About the Festival
 
 See this nice writeup from last year's festival at juggle.org: *[Fluggleburgh Pittsburgh Circus Arts Festival 2025 Recap](https://www.juggle.org/fluggleburgh-pittsburgh-circus-arts-festival-2025-recap/)*
+
+![Workshops 2025](ws25.jpg) ![Gala show 2025](show25.jpg) ![Games 2025](games25.jpg)
 
 **FluggleBurgh** is a 3-day festival for all circus and skill arts hosted by Pittsburgh's juggling, acro, clowning, and flow arts community (FluggleBurgh = *fl*ow + j*uggle* + pitts*burgh*). It will be again at the Kingsley Association in the East End of Pittsburgh. FluggleBurgh will provide a communal practice space in a large gym with tall ceilings, classrooms with scheduled workshops all weekend, outdoor practice and fire space (weather permitting), object manipulation games/competition, and shows. All activities will be in the same space. All walks of object manipulation, circus arts, and movement arts are welcome. 
 

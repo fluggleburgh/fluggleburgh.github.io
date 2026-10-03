@@ -130,6 +130,33 @@
       margin: 1.8rem 0 0.5rem;
     }
 
+    /* a paragraph of linked images (the flyers) becomes a two-up row;
+       the italic line right after it is the caption */
+    p:has(> a > img) {
+      display: grid;
+      grid-template-columns: repeat(2, 1fr);
+      gap: 1.2rem;
+      align-items: start;
+      margin: 2rem 0 0.4rem;
+    }
+    p:has(> a > img) > a { display: block; }
+    p:has(> a > img) img {
+      display: block;
+      border-radius: 4px;
+      box-shadow: 0 2px 10px rgba(42, 34, 51, 0.18);
+      transition: transform 0.15s ease, box-shadow 0.15s ease;
+    }
+    p:has(> a > img) a:hover img {
+      transform: translateY(-3px);
+      box-shadow: 0 6px 18px rgba(42, 34, 51, 0.25);
+    }
+    p:has(> a > img) + p {
+      text-align: center;
+      font-size: 0.9rem;
+      color: var(--faded);
+      margin-top: 0.6rem;
+    }
+
     iframe {
       width: 100%;
       max-width: 860px;
@@ -166,6 +193,7 @@
         scroll-snap-align: center;
       }
       h1 + p + p { font-size: 1.25rem; }
+      p:has(> a > img) { gap: 0.6rem; }
     }
   </style>
 </head>
