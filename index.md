@@ -101,6 +101,10 @@ Parking is available in front of and behind the building as well as on nearby st
 
 We will sell t-shirts on site. You can also custom order one with our previous designs [online](https://jugglingjill.myspreadshop.com/).
 
+## Past Festivals
+
+[Not Quite Pittsburgh Predecessor](https://www.google.com/search?q=%22not+quite+pittsburgh%22+site%3Ajugglingedge.com) · [FluggleBurgh 2017](2017.html) · [FluggleBurgh 2018](2018.html) · [FluggleBurgh 2019](2019.html) · *2020-2023 Covid break* · [FluggleBurgh 2024](2024.html) · [FluggleBurgh 2025](2025.html)
+
 ## Contact
 
 Contact us on Facebook or send an [email](mailto:kaestner@cs.cmu.edu).
