@@ -53,14 +53,11 @@ Watch or compete in various, mostly silly, juggling and circus games. Approachab
 
 **Workshop Schedule** 
 
-We have various workshops throughout the weekend. Schedule to be announced later.
+Preliminary schedule, more workshops to be added closer to the festival:
+
+<iframe src="https://docs.google.com/spreadsheets/d/1JPNF4ZwjtoeGk3z8bwIrDnHkhqzkzj3gE4uAP-NvqF8/htmlview?gid=0&amp;widget=true&amp;headers=false" class="schedule" frameborder="0"></iframe>
 
 Interested in teaching a workshop? [Let us know](https://forms.gle/7JvfHfsiUtCpY3da7).
-
-
-<!-- Look for last minute changes, but this is the plan right now: -->
-
-<!-- <iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vSuThN_6EeRbhAmElJ5sEvNvuYTJeuCR-BH67Nu0aG3FZYwkSv2PfwWNvx2TlucFrK9Sj8x1JeNOHUj/pubhtml?gid=0&amp;single=true&amp;widget=true&amp;headers=false"   width="800" height="600" frameborder="0" style="border:0" ></iframe> -->
 
 
 For **absolute beginners**, we teach anybody how to start juggling at the front desk throughout the entire festival (free, no gym fee required, no prior experience required, open to the general public).
