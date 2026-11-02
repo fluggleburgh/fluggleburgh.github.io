@@ -16,7 +16,7 @@
 
 ---
 
-**FluggleBurgh** = **fl**ow arts * j**uggl**ing * pitts**burgh**
+**FluggleBurgh** = **fl**ow arts + j**uggl**ing + pitts**burgh**
 
 
 ## Program (subject to change)
