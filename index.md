@@ -2,7 +2,7 @@
 
 **juggling * acro * flow arts * circus**
 
-**Nov 6-8, 2026 - Pittsburgh, PA**
+**Nov 6-8, 2026 - Kingsley Association, 6435 Frankstown Ave, Pittsburgh, PA 15206**
 
 <!-- [Facebook Event](https://www.facebook.com/events/788635177290502) -->
 
@@ -16,6 +16,7 @@
 
 ---
 
+**FluggleBurgh** = **fl**ow arts * j**uggl**ing * pitts**burgh**
 
 
 ## Program (subject to change)
