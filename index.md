@@ -6,9 +6,7 @@
 
 <!-- [Facebook Event](https://www.facebook.com/events/788635177290502) -->
 
-[JugglingEdge event](https://jugglingedge.com/event.php?EventID=6437)
-
-[Buy tickets online](https://operations.daxko.com/online/5337/ProgramsV2/Events.mvc/offering?guid=1fe1a51e-d985-11f1-99ed-0050569286b7)
+[Buy tickets online](https://operations.daxko.com/online/5337/ProgramsV2/Events.mvc/offering?guid=1fe1a51e-d985-11f1-99ed-0050569286b7) · [JugglingEdge event](https://jugglingedge.com/event.php?EventID=6437)
 
 
 [![FluggleBurgh 2026 festival flyer](flyer2026-festival-small.jpg)](flyer2026-festival.png) [![FluggleBurgh 2026 Gala Show flyer](flyer2026-show-small.jpg)](flyer2026-show.png)
