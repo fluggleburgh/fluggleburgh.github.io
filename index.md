@@ -8,7 +8,7 @@
 
 [JugglingEdge event](https://jugglingedge.com/event.php?EventID=6437)
 
-<!-- Tickets: [Card payment (tbd)], [[Cash payment](https://forms.gle/6pGEZtToC7VnEv967)] -->
+[Buy tickets online](https://operations.daxko.com/online/5337/ProgramsV2/Events.mvc/offering?guid=1fe1a51e-d985-11f1-99ed-0050569286b7)
 
 
 [![FluggleBurgh 2026 festival flyer](flyer2026-festival-small.jpg)](flyer2026-festival.png) [![FluggleBurgh 2026 Gala Show flyer](flyer2026-show-small.jpg)](flyer2026-show.png)
@@ -28,7 +28,7 @@
 * Sunday Nov 8, 2026, 10am-3pm
 
 To cover the costs of the festival, we ask for $10 per day for access to the gym and the workshops on Friday and Saturday (Sunday free). Youth under 18 (must be accompanied by an adult), locals within walking distance from the Kingsley Association, and all Kingsley Association Members can attend for free. 
-<!-- Tickets can be bought on site or [online](https://operations.daxko.com/online/5337/ProgramsV2/Events.mvc/offering?guid=664f1c27-7f43-11ef-99cf-005056924804). -->
+Tickets can be bought on site or [online](https://operations.daxko.com/online/5337/ProgramsV2/Events.mvc/offering?guid=1fe1a51e-d985-11f1-99ed-0050569286b7).
 
 **Fire Jam (Friday after dark, free)** 
 
@@ -40,8 +40,7 @@ Last year we also had a glow toy jam afterward inside.
 
 The Gala show on Saturday will be at the Kingsley Association as well. It will feature various circus acts, including juggling, flow, and acro. As usual [O’Ryan The O'Mazing](https://www.oryantheomazing.com) will host the show. 
 
-Show tickets can be bought for $10 in the gym during the festival, at the door, or online (tbd).
-<!-- [online](https://operations.daxko.com/online/5337/ProgramsV2/Events.mvc/offering?guid=664f1c27-7f43-11ef-99cf-005056924804).  -->
+Show tickets can be bought for $10 in the gym during the festival, at the door, or [online](https://operations.daxko.com/online/5337/ProgramsV2/Events.mvc/offering?guid=1fe1a51e-d985-11f1-99ed-0050569286b7).
 Doors open about 20-30 min before the show. 
 
 **Underground Renegade Show (Saturday 11:30pm, free)**
