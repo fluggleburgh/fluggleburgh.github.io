@@ -16,8 +16,6 @@
 
 ---
 
-**FluggleBurgh** = **fl**ow arts + j**uggl**ing + pitts**burgh**
-
 
 ## Program (subject to change)
 
@@ -82,6 +80,13 @@ In spirit, it is a successor of the [Not Quite Pittsburgh Juggling Festival](htt
 
 Our ongoing goal of this festival is to bring the various communities around circus arts and other skills from Pittsburgh and beyond together, share workshops, and showcase the various skills in a show. We expect plenty of juggling, acrobatics, and flow workshops, as well as some clowning, balloons, and maybe even magic and unicycling.
 
+**Why FluggleBurgh?**
+
+It started as a joke in a car on the way home from a juggling festival, combining flow arts and juggling, and it kind of got out of hand.
+
+![Venn diagram of Flow Arts, Juggling, and Pittsburgh, with the FluggleBurgh logo where all three overlap](name-explained.png)
+
+Note that "fluggle" rhymes with *juggle*, not *Google*, and there is no "s" anywhere in it.
 
 
 
